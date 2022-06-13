@@ -1,4 +1,4 @@
-# Origianl ESP32FS project can be found here:
+# Original ESP32FS project can be found here:
 source:  https://github.com/me-no-dev/arduino-esp32fs-plugin
 releases:  https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/tag/1.0
 
